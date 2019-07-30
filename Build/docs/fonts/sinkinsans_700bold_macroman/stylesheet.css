@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'sinkin_sans700_bold';
+    src: url(../../../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.eot);
+    src: url(../../../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.eot?#iefix) format('embedded-opentype'),
+         url(../../../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.woff) format('woff'),
+         url(../../../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.ttf) format('truetype'),
+         url(../../../fonts/sinkinsans_700bold_macroman/SinkinSans-700Bold-webfont.svg#sinkin_sans700_bold) format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
